@@ -1,0 +1,35 @@
+body header {
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    display: flex;
+}
+
+header h1 {
+    text-transform: uppercase;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+}
+
+header nav ul li {
+    line-height: 40px;
+    height: 40px;
+    padding: 10px;
+    line-height: 0.1;
+}
+
+header nav ul li a {
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
+
+main p {
+    width: 1200px;
+}

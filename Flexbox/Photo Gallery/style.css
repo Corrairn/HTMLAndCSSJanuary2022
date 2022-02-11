@@ -1,0 +1,7 @@
+body {
+    display: flex;
+}
+
+body ul {
+    justify-content: space-between;
+}

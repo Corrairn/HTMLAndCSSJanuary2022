@@ -1,0 +1,224 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+.first {
+    background-color: white;
+    background-size: cover;
+    width: 320px;
+    bottom: 220px;
+    position: absolute;
+}
+
+#firstlorem {
+    width: 230px;
+}
+
+.secondimg {
+    position: absolute;
+    left: 350px;
+    bottom: 400px;
+}
+
+.second {
+    position: absolute;
+    left: 350px;
+    bottom: 150px;
+    background-color: white;
+    background-size: cover;
+    width: 320px;
+}
+
+.thirdimg {
+    position: absolute;
+    left: 700px;
+    bottom: 290px;
+}
+
+.third {
+    position: absolute;
+    width: 300px;
+    left: 650px;
+    margin: 50px;
+    bottom: 10px;
+    background-color: white;
+}
+
+.fourimg {
+    position: absolute;
+    top: 500px;
+}
+.four {
+    position: absolute;
+    top: 715px;
+    left: 20px;
+    background-color: white;
+    width: 300px;
+}
+
+.fiveimg {
+    position: absolute;
+    top: 570px;
+    left: 350px;
+}
+
+.five {
+    position: absolute;
+    top: 700px;
+    left: 370px;
+    width: 300px;
+    background-color: white;
+}
+
+.siximg {
+    position: absolute;
+    top: 650px;
+    left: 700px;
+}
+
+.six {
+    position: absolute;
+    top: 865px;
+    left: 715px;
+    width: 300px;
+    background-color: white;
+}
+
+.sevenimg {
+    position: absolute;
+    top: 980px; 
+    left: 20px;
+}
+
+.seven {
+    position: absolute;
+    top: 1300px;
+    width: 300px;
+    left: 20px;
+    background-color: white;
+}
+
+.eightimg {
+    position: absolute;
+    top: 960px;
+    left: 360px;
+}
+
+.eight {
+    position: absolute;
+    top: 1175px;
+    width: 300px;
+    background-color: white;
+    left: 400px;
+}
+
+#secondheader {
+    position: absolute;
+    top: 1600px;
+}
+
+#secondglobaldiv img {
+    position: absolute;
+    top: 1700px;
+}
+
+#firstcard {
+    position: absolute;
+    top: 1826px;
+    width: 300px;
+    background-color: white;
+}
+
+#secondcardimg {
+    position: absolute;
+    bottom: 685px;
+    left: 350px;
+}
+
+#secondcard {
+    position: absolute;
+    top: 1985px;
+    width: 300px;
+    left: 340px;
+    background-color: white;
+}
+
+#secondcardimgtwo {
+    position: absolute;
+    left: 700px;
+    bottom: 685px;
+}
+
+#secondcardtwo {
+    position: absolute;
+    background-color: white;
+    top: 2050px;
+    width: 300px;
+    left: 660px;
+}
+
+#secondcardimgthird {
+    position: absolute;
+    top: 370px;
+}
+
+#secondcardthird {
+    position: absolute;
+    background-color: white;
+    top: 2285px;
+    width: 300px;
+}
+
+#secondcardimgfour {
+    position: absolute;
+    top: 520px;
+    left: 330px;
+}
+
+#secondcardfour {
+    position: absolute;
+    width: 300px;
+    background-color: white;
+    top: 2346px;
+    left: 330px;
+}
+
+#secondcardimgfive {
+    position: absolute;
+    top: 600px;
+    left: 660px;
+}
+
+#secondcardfive {
+    position: absolute;
+    width: 300px;
+    background-color: white;
+    top: 2513px;
+    left: 660px;
+}
+
+#secondcardimgsix {
+    position: absolute;
+    top: 830px;
+}
+
+#secondcardsix {
+    position: absolute;
+    width: 300px;
+    background-color: white;
+    top: 2800px;
+}
+
+#secondcardimgseven {
+    position: absolute;
+    top: 875px;
+    left: 300px;
+}
+
+#secondcardseven {
+    position: absolute;
+    width: 300px;
+    background-color: white;
+    top: 2788px;
+    left: 350px;
+}

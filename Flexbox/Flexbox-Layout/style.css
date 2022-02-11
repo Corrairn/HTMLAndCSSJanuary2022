@@ -1,0 +1,28 @@
+body {
+    text-transform: uppercase;
+    display: flex;
+}
+
+body header {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 1;
+}
+
+body main {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 1;
+}
+
+body aside {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 1;
+}
+
+body footer {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 1;
+}

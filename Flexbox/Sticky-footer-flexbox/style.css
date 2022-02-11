@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    font-family: Helvetica, sans-serif;
+    display: flex;
+}
+
+body header h1 {
+    text-transform: uppercase;
+}
+
+body main {
+    width: 1500px;
+}
+
+.mainthirdtag {
+    width: 1400px;
+}
+
+body footer {
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 102, 102);
+}
