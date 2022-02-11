@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+.firstheader {
+    color: black;
+    width: 400px;
+}
+
+header nav ul li {
+    list-style: none;
+    color: green;
+    display: inline-block;
+    line-height: 40px;
+    height: 40px;
+    padding: 20px;
+    text-decoration: none;
+}
+
+header nav ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    text-align: right;
+}
+
+main article header p {
+    font-size: large;
+    text-transform: lowercase;
+}
+
+main article header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.secondheader {
+    width: 300px;
+}
+
+.block {
+    text-align: center;
+    width: 300px;
+}
+
+.thirdheader img {
+    float: left;
+    background-image: rgb(255,255,255);
+    box-shadow: rgba(0, 0, 0, 0 , 25);
+}
+
+.thirdheader p {
+    width: 300px;
+    text-align: center;
+}
+
+.section {
+    text-align: right;
+}
+
+a {
+    color: rgb(0, 102, 0);
+}
+
+blockquote {
+    font-family: Georgia, serif;
+}
+
+.heading {
+    font-family: Georgia, serif;
+    font-size: 1em 1.2;
+}

@@ -1,0 +1,20 @@
+@import url(https://use.fontawesome.com/releases/v5.15.4/css/all.css);
+
+.list {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    border-radius: 50%;
+    float: left;
+}
+
+i {
+    color: black;
+}
+
+li {
+    display: inline-block;
+}
