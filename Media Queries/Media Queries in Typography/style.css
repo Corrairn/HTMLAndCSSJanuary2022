@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+header {
+    text-transform: uppercase;
+}
+
+main article p{
+    width: 550px;
+}
+
+.mainsecond {
+    width: 650px;
+}
+
+main article img {
+    display: block;
+    border-style: solid;
+    border-color: black;
+    left: 700px;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+
+.secondarticle p {
+    width: 700px;
+}
+
+.heading {
+    font-family: Georgia, serif;
+}
+
+.blockquotefirst {
+    position: relative;
+    left: 450px;
+    bottom: 150px;
+}
+
+.blockquotesecond {
+    position: relative;
+    left: 1000px;
+    bottom: 130px;
+}
+
+.secondarticle blockquote {
+    font-family: Georgia, serif;
+}
+
+.secondarticle #second {
+    width: 350px;
+}
+
+.thirdarticle img {
+    left: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+.thirdarticle #thirdarticlefirst {
+    position: relative;
+    width: 450px;
+    left: 350px;
+    bottom: 150px;
+}
+
+.thirdarticle #thirdarticlesecond {
+    position: relative;
+    left: 350px;
+    bottom: 150px;
+    width: 550px;
+}
